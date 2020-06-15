@@ -1,0 +1,13 @@
+C:\Users\Phil\Documents\GitHub\PML.Utils\PML.PrimeNumber\PML.PrimeNumber\bin\Debug\netcoreapp3.1\PML.PrimeNumber.exe
+C:\Users\Phil\Documents\GitHub\PML.Utils\PML.PrimeNumber\PML.PrimeNumber\bin\Debug\netcoreapp3.1\PML.PrimeNumber.deps.json
+C:\Users\Phil\Documents\GitHub\PML.Utils\PML.PrimeNumber\PML.PrimeNumber\bin\Debug\netcoreapp3.1\PML.PrimeNumber.runtimeconfig.json
+C:\Users\Phil\Documents\GitHub\PML.Utils\PML.PrimeNumber\PML.PrimeNumber\bin\Debug\netcoreapp3.1\PML.PrimeNumber.runtimeconfig.dev.json
+C:\Users\Phil\Documents\GitHub\PML.Utils\PML.PrimeNumber\PML.PrimeNumber\bin\Debug\netcoreapp3.1\PML.PrimeNumber.dll
+C:\Users\Phil\Documents\GitHub\PML.Utils\PML.PrimeNumber\PML.PrimeNumber\bin\Debug\netcoreapp3.1\PML.PrimeNumber.pdb
+C:\Users\Phil\Documents\GitHub\PML.Utils\PML.PrimeNumber\PML.PrimeNumber\obj\Debug\netcoreapp3.1\PML.PrimeNumber.csprojAssemblyReference.cache
+C:\Users\Phil\Documents\GitHub\PML.Utils\PML.PrimeNumber\PML.PrimeNumber\obj\Debug\netcoreapp3.1\PML.PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\Phil\Documents\GitHub\PML.Utils\PML.PrimeNumber\PML.PrimeNumber\obj\Debug\netcoreapp3.1\PML.PrimeNumber.AssemblyInfoInputs.cache
+C:\Users\Phil\Documents\GitHub\PML.Utils\PML.PrimeNumber\PML.PrimeNumber\obj\Debug\netcoreapp3.1\PML.PrimeNumber.AssemblyInfo.cs
+C:\Users\Phil\Documents\GitHub\PML.Utils\PML.PrimeNumber\PML.PrimeNumber\obj\Debug\netcoreapp3.1\PML.PrimeNumber.dll
+C:\Users\Phil\Documents\GitHub\PML.Utils\PML.PrimeNumber\PML.PrimeNumber\obj\Debug\netcoreapp3.1\PML.PrimeNumber.pdb
+C:\Users\Phil\Documents\GitHub\PML.Utils\PML.PrimeNumber\PML.PrimeNumber\obj\Debug\netcoreapp3.1\PML.PrimeNumber.genruntimeconfig.cache

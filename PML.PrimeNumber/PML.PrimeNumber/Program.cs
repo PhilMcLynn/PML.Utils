@@ -1,12 +1,22 @@
 ﻿using System;
+using System.Text;
 
 namespace PML.PrimeNumber
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            IInteractionType interactionType = InteractionFactory.CreateInteractionTypeSpecialised(InteractionTypeEnum.ConsoleUser);
+
+            long primesRequested = interactionType.GetValue();
+            if ( primesRequested > 0)
+            {
+                var pns = new PrimeNumberService(primesRequested);
+                var primes = pns.FindPrimeNumbers(2);
+
+                interactionType.PrintValue(primes);
+            }
         }
     }
 }
