@@ -15,7 +15,7 @@ namespace PML.PrimeNumber
         public bool GetIsPrimeNumber()
         {
             var rc = true;
-            for (int y = 2; y < _primeCanditate; y++)
+            for (long y = 3; y <= (_primeCanditate/3); y+=2)
             {
                 if (_primeCanditate % y == 0)
                 {

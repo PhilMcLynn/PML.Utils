@@ -8,5 +8,6 @@ namespace PML.PrimeNumber
     {
         long GetValue();
         void PrintValue(List<long> printValues);
+        void PrintValue(string msg);
     }
 }

@@ -30,5 +30,9 @@ namespace PML.PrimeNumber
         {
             printValues.ForEach(row => Console.Write($" {row},"));
         }
+        public void PrintValue(string msg)
+        {
+            Console.WriteLine(msg);
+        }
     }
 }

@@ -17,5 +17,10 @@ namespace PML.PrimeNumber
             // throw an error ...but this could go to file etc...
             throw new NotImplementedException();
         }
+        public void PrintValue(string msg)
+        {
+            // throw an error ...but this could go to file etc...
+            throw new NotImplementedException();
+        }
     }
 }

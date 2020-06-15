@@ -24,7 +24,7 @@ namespace PML.PrimeNumber.Tests
         public void GetIsPrimeNumberTestNotPrimeNumber()
         {
             // Arrange
-            var pn = new PrimeNumberCandidate(143);
+            var pn = new PrimeNumberCandidate(9);
             // Act
             var rc = pn.GetIsPrimeNumber();
             // Assert
