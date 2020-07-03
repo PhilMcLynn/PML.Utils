@@ -1,5 +1,4 @@
 C:\Users\Phil\Documents\GitHub\PML.Utils\PML.PrimeNumber\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.csprojAssemblyReference.cache
-C:\Users\Phil\Documents\GitHub\PML.Utils\PML.PrimeNumber\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.csproj.CoreCompileInputs.cache
 C:\Users\Phil\Documents\GitHub\PML.Utils\PML.PrimeNumber\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.AssemblyInfoInputs.cache
 C:\Users\Phil\Documents\GitHub\PML.Utils\PML.PrimeNumber\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.AssemblyInfo.cs
 C:\Users\Phil\Documents\GitHub\PML.Utils\PML.PrimeNumber\NUnitTestProject1\bin\Debug\netcoreapp3.1\PML.PrimeNumber.exe

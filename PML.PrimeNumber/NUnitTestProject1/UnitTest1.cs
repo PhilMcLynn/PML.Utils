@@ -1,6 +1,7 @@
 using NUnit.Framework;
 using PML.PrimeNumber;
 using System;
+using Moq;
 
 namespace NUnitTestProject1
 {
