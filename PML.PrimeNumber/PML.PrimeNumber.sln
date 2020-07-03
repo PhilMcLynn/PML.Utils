@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PML.PrimeNumber", "PML.PrimeNumber\PML.PrimeNumber.csproj", "{5EBE1CD3-EBB0-46AF-8F7C-E63EE48F9628}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PML.PrimeNumber", "PML.PrimeNumber\PML.PrimeNumber.csproj", "{5EBE1CD3-EBB0-46AF-8F7C-E63EE48F9628}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PML.PrimeNumberTests", "PML.PrimeNumberTests\PML.PrimeNumberTests.csproj", "{0B6CD83B-982D-4AAB-ADC9-465C84728E2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PML.PrimeNumberTests", "PML.PrimeNumberTests\PML.PrimeNumberTests.csproj", "{0B6CD83B-982D-4AAB-ADC9-465C84728E2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestProject1", "NUnitTestProject1\NUnitTestProject1.csproj", "{ECF5243D-025E-4B22-8239-F26ED7134F4C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{0B6CD83B-982D-4AAB-ADC9-465C84728E2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B6CD83B-982D-4AAB-ADC9-465C84728E2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B6CD83B-982D-4AAB-ADC9-465C84728E2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECF5243D-025E-4B22-8239-F26ED7134F4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF5243D-025E-4B22-8239-F26ED7134F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF5243D-025E-4B22-8239-F26ED7134F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF5243D-025E-4B22-8239-F26ED7134F4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

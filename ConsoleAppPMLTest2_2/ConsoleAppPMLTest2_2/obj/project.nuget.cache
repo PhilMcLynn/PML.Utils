@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "9d8hBvsLqVI4yBSPuzbKsV+IawKQ0lzpvL/+7Uw4RYBd7Ss4sJMHm0liaiTBA4nRzesJWmndndt0hoL0YMxgpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Phil\\Documents\\GitHub\\PML.Utils\\ConsoleAppPMLTest2_2\\ConsoleAppPMLTest2_2\\ConsoleAppPMLTest2_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Phil\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\Phil\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\Phil\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\Phil\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\Phil\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\Phil\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\Phil\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
